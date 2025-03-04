@@ -1,0 +1,12 @@
+---------------------------------- READ ME ----------------------------------------
+
+- In order to run the game, you need to firstly move the file "sharedassets1.assets.resS" into the folder "The Void_Data"
+
+- The game is currently Windows ONLY, it is NOT optimised for MAC / Linux or any other OS.
+
+- The game is discontinued, so don't expect any updates in the near future
+
+Dev Team
+
+------------------------------------------------------------------------------------------
+
